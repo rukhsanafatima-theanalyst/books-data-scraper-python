@@ -1,5 +1,5 @@
 # books-data-scraper-python
-# Books to Scrape: Automated Web Scraper & SQLite Data Pipeline (Python / Colab)
+# Books to Scrape: Automated Web Scraper & SQLite Data Pipeline (Python)
 
 ## Executive Summary
 This project demonstrates an end-to-end automated web scraping, data cleaning, and relational database persistence pipeline using **Python** in **Google Colab**. The script programmatically crawls multi-page catalog records from [Books to Scrape](http://books.toscrape.com), extracts book metadata, cleans raw price characters, and persists structured records into an **SQLite database** and exportable CSV format.
